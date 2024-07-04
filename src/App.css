@@ -1,0 +1,5 @@
+.App {       /*all this is to give black background to the webpage*/
+  background-color: black;    
+  color: white;
+  font-family: sans-serif;
+}
