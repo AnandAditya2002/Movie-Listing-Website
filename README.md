@@ -25,20 +25,6 @@ Developed an interactive movie listing app using React.js, React Router Dom, and
 -  React Responsive Carousel
 -  Font Awesome
 
-## 🔰API References
--  [TMDb: The Movie Database API](https://developers.themoviedb.org/3/g...)
--  [IMDB logo](https://upload.wikimedia.org/wikipedi...)
--  [TMDb Movies API - Popular](https://api.themoviedb.org/3/movie/po...)
--  [TMDb Movies API - Upcoming](https://api.themoviedb.org/3/movie/up...)
--  [TMDb Movies API - Top Rated](https://api.themoviedb.org/3/movie/to...)
--  [Movie Detail API](https://api.themoviedb.org/3/movie/{{ id }}?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US)
--  [React Dev Tools](https://chrome.google.com/webstore/de...)
--  [React Responsive Carousel](https://www.npmjs.com/package/react-r...)
--  [TMDb Image Path](https://image.tmdb.org/t/p/original/{{ imagePath }})
--  [Font Awesome CDN](https://fontawesome.com/v5.15/how-to-...)
--  [React Loading Skeleton](https://www.npmjs.com/package/react-l...)
--  [GitHub Repo](https://github.com/PrinceRaaaj/IMDB-c...)
-
 ## 📌Installation
 1. Clone the repository:
     ```bash
@@ -63,5 +49,5 @@ Developed an interactive movie listing app using React.js, React Router Dom, and
 ## 🙌Results
 - **User Experience:** Enhanced by implementing loading placeholders and a dynamic hero banner.
 - **Performance:** Achieved a 30% reduction in page load time due to responsive design and carousel feature.
-- **GitHub:** The project received positive feedback and over 50 stars on GitHub for its code quality and structure.
+
 
