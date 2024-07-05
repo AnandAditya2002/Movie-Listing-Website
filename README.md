@@ -1,4 +1,4 @@
-# Dynamic Movie Explorer App
+# Comprehensive Movie Listing Information Hub
 
 ## 🚀Table of Contents
 1. [Overview](#overview)
