@@ -19,13 +19,9 @@ Developed an interactive movie listing app using React.js, React Router Dom, and
 - Loading placeholders to improve user experience during data fetch.
 
   ![sss1](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/90a336a0-cf65-4c78-970e-fa922a33b3de)
-  ![safff1](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/af1d58d0-7d29-4235-9203-443fa0115e8a)
-  ![saff2](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/976b043c-4601-46c4-b187-3cb35a1acfd3)
-  ![safff3](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/eec96111-909e-4c44-8908-76e039f66684)
-
-
-
-
+  ![xxxx1](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/9036265a-8865-482d-bec7-0fe49afb5ec8)
+  ![xxx2](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/f8164676-674f-44b3-bb15-ea37c59cab6c)
+  ![xxx3](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/3af11756-5dee-4d29-8d74-0e3a321a3668)
 
 ## 🧵Technologies Used
 -  ReactJs
