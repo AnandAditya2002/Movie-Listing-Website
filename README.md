@@ -21,10 +21,10 @@ https://movie-listing-website-2aiz.vercel.app/
 - Dynamic hero banner using a responsive carousel.
 - Loading placeholders to improve user experience during data fetch.
 
-  ![sss1](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/90a336a0-cf65-4c78-970e-fa922a33b3de)
-  ![xxxx1](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/9036265a-8865-482d-bec7-0fe49afb5ec8)
-  ![xxx2](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/f8164676-674f-44b3-bb15-ea37c59cab6c)
-  ![xxx3](https://github.com/AnandAditya2002/Movie-Listing-Website/assets/96615239/3af11756-5dee-4d29-8d74-0e3a321a3668)
+  ![image](https://github.com/user-attachments/assets/fdcf5f7b-4e83-4be1-ba5a-0c3da20a7541)
+  ![image](https://github.com/user-attachments/assets/1d9f754c-e057-42d6-9fd3-faa273b1c4db)
+  ![image](https://github.com/user-attachments/assets/19c563a2-def3-47ed-9a6c-49c7767ca874)
+  ![image](https://github.com/user-attachments/assets/0b254777-295b-4c91-9e43-18d2557bd1f4)
 
 ## 🧵Technologies Used
 -  ReactJs
