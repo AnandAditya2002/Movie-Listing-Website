@@ -33,11 +33,11 @@ Developed an interactive movie listing app using React.js, React Router Dom, and
 ## 📌Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/PrinceRaaaj/IMDB-clone.git
+    git clone https://github.com/AnandAditya2002/Movie-Listing-Website
     ```
 2. Navigate to the project directory:
     ```bash
-    cd IMDB-clone
+    cd Movie-Listing-Website
     ```
 3. Install the dependencies:
     ```bash
