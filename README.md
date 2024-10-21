@@ -12,7 +12,7 @@
 ## 📖Overview
 Developed an interactive movie listing app using React.js, React Router Dom, and TMDb API to display upcoming, popular, and top-rated movies with detailed information. Enhanced user experience by implementing React Loading Skeleton for loading placeholders and a React Responsive Carousel for a dynamic hero banner. Achieved a 30% reduction in page load time due to the responsive design and carousel feature.
 
-## LINK 
+## 🔗LINK 
 https://movie-listing-website-2aiz.vercel.app/
 
 ## 📖Features
